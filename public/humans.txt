@@ -1,0 +1,29 @@
+/* TEAM */
+
+Lead Developer: Nhlanhla Sindane
+Role: Full-Stack Engineer & Automation Expert
+Contact: nhlanhla@example.com
+From: South Africa
+
+Co-Developer: Hakoe Dube
+Role: Full-Stack Engineer
+Contact: hakoe@example.com
+From: South Africa
+
+/* PROJECT */
+
+Name: Adonńe Aevia E-commerce, Booking & Notification Suite
+Description: A comprehensive beauty services platform featuring e-commerce, appointment booking, and multi-channel notifications
+Stack: React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB
+Created: 2024
+
+/* THANKS */
+
+Adonńe Aevia - For the opportunity to build this platform
+The beauty community - For inspiring elegant design
+
+/* SITE */
+
+Standards: HTML5, CSS3, ES6+
+Components: React, shadcn/ui
+Software: VS Code, Figma, Git
