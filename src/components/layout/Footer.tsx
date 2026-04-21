@@ -1,4 +1,4 @@
-import { Instagram, Mail, Phone, MapPin, Heart } from 'lucide-react';
+import { Instagram, Mail, Phone, MapPin } from 'lucide-react';
 
 type Page = 'home' | 'shop' | 'booking' | 'track' | 'admin';
 
